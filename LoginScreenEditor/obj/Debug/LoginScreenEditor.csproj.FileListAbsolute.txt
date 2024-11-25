@@ -1,0 +1,17 @@
+c:\code\Desktop Utilities\LoginScreenEditor\LoginScreenEditor\obj\Debug\LoginScreenEditor.csprojAssemblyReference.cache
+c:\code\Desktop Utilities\LoginScreenEditor\LoginScreenEditor\obj\Debug\LoginScreenEditor.CustomForm.resources
+c:\code\Desktop Utilities\LoginScreenEditor\LoginScreenEditor\obj\Debug\LoginScreenEditor.frmAbout.resources
+c:\code\Desktop Utilities\LoginScreenEditor\LoginScreenEditor\obj\Debug\LoginScreenEditor.frmError.resources
+c:\code\Desktop Utilities\LoginScreenEditor\LoginScreenEditor\obj\Debug\LoginScreenEditor.frmMain.resources
+c:\code\Desktop Utilities\LoginScreenEditor\LoginScreenEditor\obj\Debug\LoginScreenEditor.Properties.Resources.resources
+c:\code\Desktop Utilities\LoginScreenEditor\LoginScreenEditor\obj\Debug\LoginScreenEditor.ResTranslate.resources
+c:\code\Desktop Utilities\LoginScreenEditor\LoginScreenEditor\obj\Debug\LoginScreenEditor.csproj.GenerateResource.cache
+c:\code\Desktop Utilities\LoginScreenEditor\LoginScreenEditor\obj\Debug\LoginScreenEditor.csproj.CoreCompileInputs.cache
+c:\code\Desktop Utilities\LoginScreenEditor\LoginScreenEditor\bin\Debug\LoginScreenEditor.exe.config
+c:\code\Desktop Utilities\LoginScreenEditor\LoginScreenEditor\bin\Debug\LoginScreenEditor.exe
+c:\code\Desktop Utilities\LoginScreenEditor\LoginScreenEditor\bin\Debug\LoginScreenEditor.pdb
+c:\code\Desktop Utilities\LoginScreenEditor\LoginScreenEditor\bin\Debug\com.softpcapps.download-software.dll
+c:\code\Desktop Utilities\LoginScreenEditor\LoginScreenEditor\bin\Debug\com.softpcapps.download-software.pdb
+c:\code\Desktop Utilities\LoginScreenEditor\LoginScreenEditor\obj\Debug\LoginScreenEditor.csproj.CopyComplete
+c:\code\Desktop Utilities\LoginScreenEditor\LoginScreenEditor\obj\Debug\LoginScreenEditor.exe
+c:\code\Desktop Utilities\LoginScreenEditor\LoginScreenEditor\obj\Debug\LoginScreenEditor.pdb
